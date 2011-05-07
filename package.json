@@ -1,0 +1,19 @@
+{
+  "name": "stylus-mixins",
+  "description": "A collection of usable mixins for Stylus",
+  "version": "0.1.0",
+  "author": "brunch http://brunchwithcoffee.com/",
+  "contributors": [ 
+    { "name": "Linus G Thiel", "email": "linus@hanssonlarsson.se" }
+  ],
+  "dependencies": {
+    "stylus": ">= 0.12.2",
+    "gd": ">= 0.1.0"
+  },
+  "keywords": ["css", "stylus"],
+  "engines": { "node": "*" },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/hanssonlarsson/stylus-mixins.git"
+  }
+}
