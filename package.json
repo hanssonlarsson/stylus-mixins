@@ -7,8 +7,7 @@
     { "name": "Linus G Thiel", "email": "linus@hanssonlarsson.se" }
   ],
   "dependencies": {
-    "stylus": ">= 0.12.2",
-    "gd": ">= 0.1.0"
+    "stylus": "0.12.x >=0.12.3"
   },
   "keywords": ["css", "stylus"],
   "engines": { "node": "*" },
