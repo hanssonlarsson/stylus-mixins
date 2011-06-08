@@ -9,8 +9,14 @@
   "dependencies": {
     "stylus": "0.12.x >=0.12.3"
   },
-  "keywords": ["css", "stylus"],
-  "engines": { "node": "*" },
+  "main" : "./lib",
+  "directories": {
+    "lib": "."
+  },
+  "keywords": ["css", "stylus", "mixins"],
+  "engines": {
+      "node": "*"
+  },
   "repository": {
     "type": "git",
     "url": "http://github.com/hanssonlarsson/stylus-mixins.git"
