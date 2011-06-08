@@ -1,7 +1,7 @@
 {
   "name": "stylus-mixins",
   "description": "A collection of useful mixins for Stylus",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "brunch http://brunchwithcoffee.com/",
   "contributors": [ 
     { "name": "Linus G Thiel", "email": "linus@hanssonlarsson.se" },
