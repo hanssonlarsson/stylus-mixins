@@ -1,19 +1,31 @@
 {
   "name": "stylus-mixins",
-  "description": "A collection of usable mixins for Stylus",
-  "version": "0.1.0",
+  "description": "A Collection of Useful Mixins for Stylus",
+  "version": "0.2.0",
   "author": "brunch http://brunchwithcoffee.com/",
   "contributors": [ 
-    { "name": "Linus G Thiel", "email": "linus@hanssonlarsson.se" }
+    { "name": "Linus G Thiel", "email": "linus@hanssonlarsson.se" },
+    { "name": "Daniel Gasienica", "email": "daniel@gasienica.ch" }
   ],
   "dependencies": {
-    "stylus": ">= 0.12.2",
-    "gd": ">= 0.1.0"
+    "stylus": "0.12.x >=0.12.3"
   },
-  "keywords": ["css", "stylus"],
-  "engines": { "node": "*" },
+  "main" : "./lib",
+  "directories": {
+    "lib": "."
+  },
+  "keywords": ["css", "stylus", "mixins"],
+  "engines": {
+      "node": "*"
+  },
   "repository": {
     "type": "git",
-    "url": "http://github.com/hanssonlarsson/stylus-mixins.git"
-  }
+    "url": "http://github.com/gasi/stylus-mixins.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+      }
+  ]
 }
